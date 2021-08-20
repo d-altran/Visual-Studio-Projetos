@@ -1,0 +1,7 @@
+E:\Visual Studio Projetos\Solid\Ocp\bin\Debug\Ocp.exe.config
+E:\Visual Studio Projetos\Solid\Ocp\bin\Debug\Ocp.exe
+E:\Visual Studio Projetos\Solid\Ocp\bin\Debug\Ocp.pdb
+E:\Visual Studio Projetos\Solid\Ocp\obj\Debug\Ocp.csprojAssemblyReference.cache
+E:\Visual Studio Projetos\Solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projetos\Solid\Ocp\obj\Debug\Ocp.exe
+E:\Visual Studio Projetos\Solid\Ocp\obj\Debug\Ocp.pdb
