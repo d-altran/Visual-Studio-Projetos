@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Ocp.Vehicle;
+using System;
 
 namespace Ocp
 {
@@ -10,18 +7,16 @@ namespace Ocp
     {
         static void Main(string[] args)
         {
-            TypeVehicle type = TypeVehicle.MOTORCYCLE;
+            TypeVehicle type = TypeVehicle.CAR;
 
 
             if (type == TypeVehicle.CAR)
             {
-                Vehicle vehicle = new Vehicle("Azul", 2022, 2.0, 5, 4);
-                vehicle.Car();
+                Car vehicle = new Car("Azul", 2022, 2.0, 5, 4);
             }
             else
             {
-                Vehicle vehicle = new Vehicle("Branco", 2021, 250, 1, 0);
-                vehicle.Motorcycle();
+                Motorcycle vehicle = new Motorcycle("Branco", 2021, 250);
             }
 
             Console.ReadLine();
