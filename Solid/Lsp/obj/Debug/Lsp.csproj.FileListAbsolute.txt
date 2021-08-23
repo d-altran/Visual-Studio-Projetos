@@ -1,0 +1,7 @@
+E:\Visual Studio Projetos\Solid\Lsp\bin\Debug\Lsp.exe.config
+E:\Visual Studio Projetos\Solid\Lsp\bin\Debug\Lsp.exe
+E:\Visual Studio Projetos\Solid\Lsp\bin\Debug\Lsp.pdb
+E:\Visual Studio Projetos\Solid\Lsp\obj\Debug\Lsp.csprojAssemblyReference.cache
+E:\Visual Studio Projetos\Solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projetos\Solid\Lsp\obj\Debug\Lsp.exe
+E:\Visual Studio Projetos\Solid\Lsp\obj\Debug\Lsp.pdb
