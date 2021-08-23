@@ -16,7 +16,7 @@ namespace Lsp.Payments
 
         public virtual void Validate()
         {
-            Console.WriteLine("PLimite OK, Rrewards OK!");
+            Console.WriteLine("Limite OK, Rrewards OK!");
         }
     }
 }
