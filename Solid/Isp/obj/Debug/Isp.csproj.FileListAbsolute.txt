@@ -1,0 +1,7 @@
+E:\Visual Studio Projetos\Solid\Isp\bin\Debug\Isp.exe.config
+E:\Visual Studio Projetos\Solid\Isp\bin\Debug\Isp.exe
+E:\Visual Studio Projetos\Solid\Isp\bin\Debug\Isp.pdb
+E:\Visual Studio Projetos\Solid\Isp\obj\Debug\Isp.csprojAssemblyReference.cache
+E:\Visual Studio Projetos\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projetos\Solid\Isp\obj\Debug\Isp.exe
+E:\Visual Studio Projetos\Solid\Isp\obj\Debug\Isp.pdb
