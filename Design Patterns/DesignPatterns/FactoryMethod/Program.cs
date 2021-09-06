@@ -18,6 +18,10 @@ namespace FactoryMethod
             {
                 transport = new MotorcycleTransport();
             }
+            else if (args.Length > 0 && args[0] == "--bike")
+            {
+                transport = new BikeTransport();
+            }
             else
             {
                 Console.WriteLine("Selecione o tipo do serviço");
