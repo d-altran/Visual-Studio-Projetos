@@ -1,0 +1,7 @@
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
