@@ -1,0 +1,6 @@
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\bin\Debug\Brigde.exe.config
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\bin\Debug\Brigde.exe
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\bin\Debug\Brigde.pdb
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\obj\Debug\Brigde.exe
+E:\Visual Studio Projetos\Design Patterns\DesignPatterns\Brigde\obj\Debug\Brigde.pdb
